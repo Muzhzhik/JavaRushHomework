@@ -17,6 +17,5 @@ public class PrintableMain {
         for(Printable pt : booksAndMags) {
             pt.print();
         }
-
     }
 }
